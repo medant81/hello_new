@@ -1,4 +1,4 @@
-module hello_new
+module github.com/medant81/hello_new
 
 go 1.22.1
 
